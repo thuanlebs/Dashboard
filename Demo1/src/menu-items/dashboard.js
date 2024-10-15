@@ -10,14 +10,14 @@ const dashboard = {
   title: 'Dashboard',
   type: 'group',
   children: [
-    {
-      id: 'default',
-      title: 'Dashboard',
-      type: 'item',
-      url: '/dashboard/default',
-      icon: icons.IconDashboard,
-      breadcrumbs: false,
-    },
+    // {
+    //   id: 'default',
+    //   title: 'Dashboard',
+    //   type: 'item',
+    //   url: '/dashboard/default',
+    //   icon: icons.IconDashboard,
+    //   breadcrumbs: false,
+    // },
     {
       id: 'default',
       title: 'Chart Js',
@@ -26,14 +26,14 @@ const dashboard = {
       icon: icons.IconDashboard,
       breadcrumbs: false,
     },
-    {
-      id: 'default',
-      title: 'Dashboard',
-      type: 'item',
-      url: '/dashboard/horizontal-chart',
-      icon: icons.IconDashboard,
-      breadcrumbs: false,
-    },
+    // {
+    //   id: 'default',
+    //   title: 'Dashboard',
+    //   type: 'item',
+    //   url: '/dashboard/horizontal-chart',
+    //   icon: icons.IconDashboard,
+    //   breadcrumbs: false,
+    // },
   ]
 };
 
